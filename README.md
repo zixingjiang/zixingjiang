@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a M.Phil. student in the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), Department of Surgery, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I’m dedicated to studying and modeling medical procedures and delivering innovative and effective engineering solutions, including robotics and computer science, to improve their quality, efficiency, safety, and availability.
+I'm a M.Phil. student in the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), [Department of Surgery](https://www.surgery.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I’m dedicated to studying and modeling medical procedures and delivering innovative and effective engineering solutions, including robotics and computer science, to improve their quality, efficiency, safety, and availability.
 
 - 🔭 I’m currently working on **robot-assisted imaging** and **image-guided robotic interventions**. Check my project list at [zixingjiang.com/projects/](https://www.zixingjiang.com/projects).
 - 📫 How to reach me: zixingjiang@outlook.com (personal) or zxjiang@surgery.cuhk.edu.hk (school).
