@@ -19,6 +19,6 @@ I'm a M.Phil. student in the [Advanced Bio-Medical Robotics Lab](https://researc
 I'm dedicated to studying and modeling medical procedures and delivering innovative and effective engineering solutions, including robotics and computer science, to improve their quality, efficiency, safety, and availability. 
 
 
-🔭 I'm currently working on **robot-assisted imaging** and **image-guided robotic interventions**. (project gallery: [zixingjiang.com/prokects/](https://www.zixingjiang.com/projects))
+🔭 I'm currently working on **robot-assisted imaging** and **image-guided robotic interventions**. (project gallery: [zixingjiang.com/projects/](https://www.zixingjiang.com/projects))
 
 📫 How to reach me: zxjiang@surgery.cuhk.edu.hk
