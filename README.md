@@ -19,7 +19,5 @@ I'm a M.Phil. student at the [Advanced Bio-Medical Robotics Lab](https://researc
 
 I enjoy building robots that can work in the real world!
 
-
-
-![Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
+![](https://raw.githubusercontent.com/zixingjiang/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/zixingjiang/github-stats/master/generated/languages.svg)
