@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a M.Phil. student at the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), CUHK. 
-
-I enjoy building robots that can work in the real world!
 
 ![](https://raw.githubusercontent.com/zixingjiang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zixingjiang/github-stats/master/generated/overview.svg#gh-light-mode-only)
